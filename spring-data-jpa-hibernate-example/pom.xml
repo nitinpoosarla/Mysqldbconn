@@ -6,7 +6,7 @@
 	<groupId>com.techprimers.jpa</groupId>
 	<artifactId>spring-data-jpa-hibernate-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>spring-data-jpa-hibernate-example</name>
 	<description>Demo project for Spring Boot</description>
